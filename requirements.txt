@@ -86,7 +86,7 @@ pycparser==2.20
 pycryptodome==3.9.7
 pydot==1.4.1
 pydotplus==2.0.2
-Pygments==2.6.1
+Pygments==2.7.4
 PyMuPDF==1.17.1
 pyparsing==2.4.2
 PyPDF2==1.26.0
