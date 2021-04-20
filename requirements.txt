@@ -74,7 +74,7 @@ pdf2image==1.13.1
 pdfminer.six==20181108
 pdfplumber==0.5.21
 pickleshare==0.7.5
-pikepdf==1.15.1
+pikepdf==2.10.0
 Pillow==7.1.2
 pluggy==0.13.1
 prometheus-client==0.7.1
