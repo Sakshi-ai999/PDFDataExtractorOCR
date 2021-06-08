@@ -75,7 +75,7 @@ pdfminer.six==20181108
 pdfplumber==0.5.21
 pickleshare==0.7.5
 pikepdf==1.15.1
-Pillow==7.1.2
+Pillow==8.2.0
 pluggy==0.13.1
 prometheus-client==0.7.1
 prompt-toolkit==3.0.5
