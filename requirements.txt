@@ -21,7 +21,7 @@ decorator==4.4.2
 defusedxml==0.6.0
 distlib==0.3.1
 distro==1.5.0
-Django==3.0.7
+Django==3.1.13
 docker==4.2.0
 docx2txt==0.8
 EbookLib==0.17.1
